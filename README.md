@@ -1,6 +1,6 @@
-# Gamma Text Extractor (OCR) — README
+# Gamma Text Extractor (OCR)
 
-This tool extracts text from instrument-cluster label images using **Mistral OCR**, compares it
+This tool extracts text from car cluster screen images using **Mistral OCR**, compares it
 against ground-truth strings stored in *Gamma* CSVs, and writes a per-image comparison report.
 
 ---
