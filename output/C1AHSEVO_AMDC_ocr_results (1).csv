@@ -1,0 +1,21 @@
+Id,fr Expected,fr Extracted,fr Result
+10101_3,Panne électrique,$\square$ Panne électrique,PASS
+10101_4,Panne du système de freinage,(1) Panne du système de freinage,PASS
+10101_5,Risque casse moteur,# Risque casse moteur,PASS
+10101_7,Véhicule à contrôler,# Véhicule à contrôler,PASS
+10101_8,Véhicule à contrôler,# Véhicule à contrôler,PASS
+10101_9,Injection à contrôler,Injection à contrôler,PASS
+10102_3,Niveau d'huile à réajuster,Niveau d'huile à réajuster,PASS
+10107_1,Risque de verglas,101 Risque de verglas,PASS
+10115_2,Vitesse limite dépassée,Vitesse limite dépassée,PASS
+10115_3,Temps de conduite dépassé,# Temps de conduite dépassé,PASS
+10202_1,Niveau carburant faible,1 园 Niveau carburant faible,PASS
+10202_3,Niveau batterie faible,Niveau batterie faible,PASS
+10202_5,Niveau batterie très faible,Niveau batterie très faible,PASS
+10208_1,Batterie faible Démarrer moteur,Batterie faible Démarrer moteur,PASS
+10208_4,Température et batterie faibles Charger avant le prochain départ,Température et batterie faibles Charger avant le prochain départ,PASS
+10210_1,Pile carte faible,Pile carte faible,PASS
+10211_1,Feux stop à contrôler,Feux stop à contrôler,PASS
+10213_2,Faire révision,![img-0.jpeg](img-0.jpeg) Faire révision,PASS
+10217_1,Filtre à gazole à purger,# Filtre à gazole à purger,PASS
+Total Mismatches,,,0

@@ -1,0 +1,5 @@
+variant = C1AHSEVO_AMDC
+language = fr
+input_image_size = 707x79
+image_dir = input
+output_dir = output
